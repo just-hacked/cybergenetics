@@ -8,7 +8,7 @@ import { DIcons } from "dicons";
 
 import { Button } from "@/components/ui/button";
 
-export function Home() {
+export function Page() {
   useEffect(() => {
     renderCanvas();
   }, []);
@@ -96,4 +96,4 @@ export function Home() {
 };
 
  
-export default Home;
+export default Page;
