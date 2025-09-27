@@ -74,14 +74,14 @@ export default function Page() {
           This is Not just a community. A shift. A spark. A system reboot called Cyber Genetic.
           </p>
           <div className="flex justify-center gap-2">
-            <Link href={"/"}>
+            <Link href={"https://t.me/+08TaWWdwGTo5ZjQ1"}>
               <Button variant="default" size="lg">
                 Join Now
               </Button>
             </Link>
             <Link href={"https://t.me/its_justhacked"} target="_blank">
               <Button variant="outline" size="lg">
-                Book a call
+                DM Admin
               </Button>
             </Link>
           </div>
